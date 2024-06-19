@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogit043&label=Profile%20views&color=0e75b6&style=flat" alt="yogit043" /> </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bnvignesh&theme=darkhub" alt="bnvignesh" /></a>
+</p>
+
 - 🌱 I’m currently learning **MERN Stack , Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yogit043](https://github.com/yogit043)
