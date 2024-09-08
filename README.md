@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/yogit gurram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yogit gurram" height="30" width="40" /></a>
 <a href="https://fb.com/yogit gurram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yogit gurram" height="30" width="40" /></a>
 <a href="https://instagram.com/its_me_yogit_gurram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_yogit_gurram" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yogit007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yogit007" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yogit043" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yogit007" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yogit043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogit043" height="30" width="40" /></a>
 </p>
 
